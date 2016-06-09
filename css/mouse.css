@@ -1,0 +1,49 @@
+#screenshot-carousel{
+    max-width: 1024px;
+    margin: auto;
+}
+body{
+    background: #5c7373;
+}
+
+.general{
+    max-width: 800px;
+    border: 1px solid black;
+    background: #2b2b29;
+    color: white;
+    margin: 0px 10px;
+}
+.general span{
+    color: yellow;
+}
+.wild{
+    display: inline-block;
+}
+.l6{
+    max-width: 340px;
+}
+#left{      
+    margin: auto;
+}
+#right{
+    background: #ffff99;
+    max-width: 340px;
+    height: 1000px;
+    margin: auto;
+}
+#st-black{
+    background: black;
+    margin-bottom: 0px;
+}
+.textA{
+    color: yellow;
+}
+.textB{
+    color: white;
+}
+.bor{
+    background: white;
+}
+.limo{
+    padding: 0px 20px;
+}
